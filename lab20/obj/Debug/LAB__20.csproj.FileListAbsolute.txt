@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\bin\Debug\LAB__20.exe.config
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\bin\Debug\LAB__20.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\bin\Debug\LAB__20.pdb
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\MainWindow.g.cs
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\App.g.cs
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20_MarkupCompile.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20_MarkupCompile.lref
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\MainWindow.baml
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20.g.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20.Properties.Resources.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lab20-master\obj\Debug\LAB__20.pdb
