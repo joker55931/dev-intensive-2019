@@ -1,0 +1,14 @@
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\bin\Debug\lr18.exe.config
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\bin\Debug\lr18.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\bin\Debug\lr18.pdb
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\lr18.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\MainWindow.baml
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\MainWindow.g.cs
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\App.g.cs
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\lr18_MarkupCompile.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\lr18.g.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\lr18.Properties.Resources.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\lr18.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\lr18.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\lr18.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr18\obj\Debug\lr18.pdb
